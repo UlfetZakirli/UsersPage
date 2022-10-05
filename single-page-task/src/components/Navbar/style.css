@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.nav-container ul li{
+    display:inline-block;
+    margin: 10px 50px;
+    color: #fff;
+ 
+}
+.nav-container{
+    height: 50px;
+    background-color: green;
+
+}
+
+.nav-container ul li a{
+    text-decoration: none;
+    color: #fff;
+}
